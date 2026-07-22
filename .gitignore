@@ -1,0 +1,33 @@
+
+n
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Kubernetes
+kubeconfig
+
+# IntelliJ
+.idea/
+
+# Build
+dist/
+build/
